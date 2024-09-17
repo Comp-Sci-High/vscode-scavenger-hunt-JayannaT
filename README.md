@@ -2,6 +2,8 @@
 # vscode-scavenger-hunt
 Learn how to navigate VSCode through this scavenger hunt.
 
+console.log("love
+)
 In VSCode,
 - [ ] Open the code palette. This will let you search up any instructions!
 - [ ] Find the index.js file. You can use the UI or a keyboard shortcut.
